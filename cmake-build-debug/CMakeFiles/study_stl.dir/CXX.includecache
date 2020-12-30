@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tangpeihua/CLionProjects/study_stl/allocator.cpp
+allocator.h
+/home/tangpeihua/CLionProjects/study_stl/allocator.h
+vector
+-
+iostream
+-
+
+/home/tangpeihua/CLionProjects/study_stl/allocator.h
+new
+-
+cstddef
+-
+climits
+-
+iostream
+-
+

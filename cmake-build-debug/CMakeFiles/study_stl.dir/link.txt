@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/study_stl.dir/allocator.cpp.o  -o study_stl 

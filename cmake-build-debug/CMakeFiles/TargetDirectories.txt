@@ -1,0 +1,3 @@
+/home/tangpeihua/CLionProjects/study_stl/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tangpeihua/CLionProjects/study_stl/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tangpeihua/CLionProjects/study_stl/cmake-build-debug/CMakeFiles/study_stl.dir
